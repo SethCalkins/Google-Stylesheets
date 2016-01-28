@@ -1,4 +1,3 @@
-<snippet>
 # Stylesheets for all Google Services
 
 ---
@@ -18,6 +17,3 @@ CSS Stylesheets for various Google Hosted Services.
 Thanks to Google for providing us some user-scripts for their services!
 ## License
 Code and documentation copyright 2011-2016 Google. Code released under the MIT license. Docs released under Creative Commons.
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
