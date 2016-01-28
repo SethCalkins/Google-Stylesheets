@@ -1,10 +1,11 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Stylesheets for all Google Services}
+# Stylesheets for all Google Services
 
-## Installation
+---
 ## Usage
-TODO: add user-scripts
+CSS Stylesheets for various Google Hosted Services.
+
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -14,7 +15,7 @@ TODO: add user-scripts
 ## History
 
 ## Credits
-TODO: Thanks to Google for providing us some user-scripts for their services!
+Thanks to Google for providing us some user-scripts for their services!
 ## License
 Code and documentation copyright 2011-2016 Google. Code released under the MIT license. Docs released under Creative Commons.
 ]]></content>
